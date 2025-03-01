@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "Voucher Digital Superindo 50K", "denom": 50000, "codes": 55},
+    {"id": 2, "name": "Voucher Digital Superindo 100K", "denom": 100000, "codes": 66},
+    {"id": 3, "name": "Voucher Digital Superindo 200K", "denom": 200000, "codes": 77}
+]
